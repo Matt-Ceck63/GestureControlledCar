@@ -13,3 +13,11 @@ This repository contains:
 ![Image of Car](Car.PNG)
 
 ![Image of Transmitter](Transmitter.PNG)
+
+Car PCB
+
+![Image of car PCB](PCB_Car.png)
+
+Transmitter PCB
+
+![Image of transmitter PCB](PCB_Transmitter.png)
